@@ -35,7 +35,7 @@ let All_song = [
    {
      name: "Pretender",
      path: "/song2.mp3",
-     img: "/image2.webp",
+     img: "https://github.com/yunshenlim/music_player.github.io/blob/main/image1.webp",
      singer: "Official髭男dism"
    },
    {
