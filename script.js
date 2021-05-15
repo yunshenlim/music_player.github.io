@@ -28,32 +28,32 @@ let track = document.createElement('audio');
 let All_song = [
    {
      name: "Lemon",
-     path: "https://github.com/yunshenlim/music_player.github.io/blob/main/song1.mp3",
-     img: "image1.webp",
+     path: "music/song1.mp3",
+     img: "images/image1.webp",
      singer: "米津玄师"
    },
    {
      name: "Pretender",
-     path: "/song2.mp3",
-     img: "https://github.com/yunshenlim/music_player.github.io/blob/main/image1.webp",
+     path: "music/song2.mp3",
+     img: "images/image2.webp",
      singer: "Official髭男dism"
    },
    {
      name: "怪物",
-     path: "/song3.mp3",
-     img: "/image3.webp",
+     path: "music/song3.mp3",
+     img: "images/image3.webp",
      singer: "YOASOBI"
    },
    {
      name: "優しい彗星",
-     path: "/song4.mp3",
-     img: "/image4.webp",
+     path: "music/song4.mp3",
+     img: "images/image4.webp",
      singer: "YOASOBI"
    },
    {
      name: "希望之花x鐵之華",
-     path: "/song5.mp3",
-     img: "/image5.webp",
+     path: "music/song5.mp3",
+     img: "images/image5.webp",
      singer: "Uru"
    }
 ];
