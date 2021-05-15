@@ -28,7 +28,7 @@ let track = document.createElement('audio');
 let All_song = [
    {
      name: "Lemon",
-     path: "song1.mp3",
+     path: "https://www.youtube.com/watch?v=SX_ViT4Ra7k",
      img: "image1.webp",
      singer: "米津玄师"
    },
