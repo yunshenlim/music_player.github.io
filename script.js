@@ -28,8 +28,8 @@ let track = document.createElement('audio');
 let All_song = [
    {
      name: "Lemon",
-     path: "/song1.mp3",
-     img: "/image1.webp",
+     path: "song1.mp3",
+     img: "image1.webp",
      singer: "米津玄师"
    },
    {
